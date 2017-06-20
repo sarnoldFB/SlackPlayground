@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="SlackPlayground:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SlackPlayground_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SlackPlayground.jar">
+        <element id="module-output" name="SlackPlayground" />
+      </element>
+      <element id="library" level="project" name="activation-1.1" />
+    </root>
+  </artifact>
+</component>
